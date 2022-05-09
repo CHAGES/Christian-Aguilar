@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url('img/fondo.jpg') no-repeat;
+  background: url("img/Fondo.jpg") #000 no-repeat;
   background-size: cover;
 }
 
